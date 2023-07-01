@@ -31,34 +31,6 @@
 --- 
 
 
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calender](https://github.com/getlost01/cp-contest-calender)
-
-#### Frontend Projects :
-
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
-
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
